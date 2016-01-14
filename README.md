@@ -2,9 +2,9 @@
 Utility for generating alchemy potions for TESV: Skyrim
 
 Features:
--Show resulting potion from any compatible ingredients
--Filter ingredients by effect or DLC
--Can include effects from Alchemy perks like Poisoner, Purity, etc.
+  - Show resulting potion from any compatible ingredients
+  - Filter ingredients by effect or DLC
+  - Can include effects from Alchemy perks like Poisoner, Purity, etc.
 
 [Download Latest Release](https://github.com/cmccandless/SkyAlchUtil/releases/latest)
 
