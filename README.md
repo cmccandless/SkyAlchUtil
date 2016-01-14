@@ -1,4 +1,4 @@
-# SkyAlchUtil
+# Skyrim Alchemy Utility
 Utility for generating alchemy potions for TESV: Skyrim
 
 # TODO:
